@@ -1,5 +1,5 @@
-# DevOps_Project
-Tools Used: Github,AWS,Jenkins,Docker
+# NeuroDeploy (A DevOps Project)
+Tools Used: AWS,Jenkins,Docker,Github
 
 ## Description: 
  1. Built a CI/CD Pipeline using Jenkins for automated testing and deployment.
